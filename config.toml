@@ -61,7 +61,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:webmaster@infowall.com"
+    url = "mailto:mmcintosh@infowall.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
