@@ -142,15 +142,7 @@ Walter Manning's Seabreeze was dragged across a dry reef after being standed on 
 
 Bill Read's Mistress was gutted by fire that destroyed the interior, yet the hull and deck were undamaged. 
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. Britton Chance -- Designer of the Chance 30-30
+## 4. Britton Chance -- Designer of the Chance 30-30
 
 Britton Chance
 1940-2012
