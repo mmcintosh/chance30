@@ -1,4 +1,4 @@
-baseurl = "https://chance30.infowall.net/"
+baseurl = "http://chance30.infowall.net/"
 title = "Allied Chance 30"
 theme = "hugo-universal-theme"
 themesDir = "themes"
